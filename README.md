@@ -1,8 +1,8 @@
 # xero-backup
 
-A set of Python scripts to do a complete backup of your Xero account — including all accounting data, invoice PDFs, and scanned receipts/attachments.
+A set of Python scripts to do a complete backup of your Xero account — including all accounting data, invoice PDFs, and scanned receipts/attachments. Xero has no built-in "export everything" button. These scripts use the Xero API to pull everything down automatically, then reformat it into a human-browsable folder structure.
 
-Xero has no built-in "export everything" button. These scripts use the Xero API to pull everything down automatically, then reformat it into a human-browsable folder structure.
+If it saves you some time or cost, feel free to [buy me a coffee](https://buymeacoffee.com/horsethecompanion) 
 
 **What you end up with:**
 - All invoices, bills, bank transactions, contacts, payments, and manual journals as JSON
